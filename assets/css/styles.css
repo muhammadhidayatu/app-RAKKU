@@ -1,0 +1,38 @@
+/* Custom styles */
+body {
+    background-color: #98c3ee;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+.card-header {
+    border-radius: 10px 10px 0 0;
+}
+
+.alert {
+    border-radius: 5px;
+}
+
+.list-group-item {
+    border: none;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #343a40;
+}
+
+/* Tombol Hapus */
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+}
